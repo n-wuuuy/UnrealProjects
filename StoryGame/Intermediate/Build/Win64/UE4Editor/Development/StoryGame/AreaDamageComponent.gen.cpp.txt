@@ -1,0 +1,5 @@
+D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\Definitions.StoryGame.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal Projects\StoryGame\StoryGame\Source\StoryGame/AreaDamageComponent.h
+D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Inc\StoryGame\AreaDamageComponent.generated.h

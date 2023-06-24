@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\StoryGame\\StoryGame\\Source\\StoryGame\\StoryGame.Build.cs",
+		"D:\\Unreal Projects\\StoryGame\\StoryGame\\Source\\StoryGame.Target.cs",
+		"D:\\Unreal Projects\\StoryGame\\StoryGame\\Source\\StoryGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

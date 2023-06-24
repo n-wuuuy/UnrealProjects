@@ -1,0 +1,2 @@
+D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\Definitions.StoryGame.h
+D:\Unreal Projects\StoryGame\StoryGame\Source\StoryGame\StoryGame.h

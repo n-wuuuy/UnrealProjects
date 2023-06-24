@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StoryGame",
+			"Path": "D:\\Unreal Projects\\StoryGame\\StoryGame\\Source\\StoryGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StoryGameEditor",
+			"Path": "D:\\Unreal Projects\\StoryGame\\StoryGame\\Source\\StoryGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

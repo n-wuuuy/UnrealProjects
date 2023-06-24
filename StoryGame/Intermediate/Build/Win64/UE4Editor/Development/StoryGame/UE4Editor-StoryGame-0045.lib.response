@@ -1,0 +1,41 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StoryGame-0045.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\StoryGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\AreasOfReview.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\AttackComponent.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\ButtonMoveWidget.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\EnemyPaperCharacter.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\EnemyPawnStandart.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\GameHealtheComponent.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\HealthBar.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\HealthComponent.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\MoveWidget.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\PaperProjectail.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\PlayerCharacter.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\PlayerPaperCharacter.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\ShootComponent.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\StoryGame.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\StoryGameGameModeBase.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\AreasOfReview.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\AttackComponent.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\ButtonMoveWidget.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\EnemyPaperCharacter.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\EnemyPawnStandart.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\GameHealtheComponent.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\HealthBar.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\HealthComponent.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\MoveWidget.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\PaperProjectail.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\PlayerCharacter.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\PlayerPaperCharacter.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\ShootComponent.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\StoryGame.init.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\StoryGameGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\Default.rc2.res"
+/OUT:"D:\Unreal Projects\StoryGame\StoryGame\Intermediate\Build\Win64\UE4Editor\Development\StoryGame\UE4Editor-StoryGame-0045.lib"

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StoryGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A0A92ACF-F039-4B34-8BE6-4432B7FAE454}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StoryGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StoryGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BFAB314B-BE97-4A75-91D9-BF2CA2C9ACEF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StoryGame">
+      <UniqueIdentifier>{1A57D182-1CA7-44DB-BC5C-BB1EEE814BA7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StoryGame\AreasOfReview.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\AreasOfReview.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\AttackComponent.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\AttackComponent.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\ButtonMoveWidget.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\ButtonMoveWidget.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\EnemyPaperCharacter.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\EnemyPaperCharacter.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\EnemyPawnStandart.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\EnemyPawnStandart.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\GameHealtheComponent.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\GameHealtheComponent.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\HealthBar.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\HealthBar.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\HealthComponent.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\HealthComponent.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\MoveWidget.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\MoveWidget.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\PaperProjectail.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\PaperProjectail.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\PlayerCharacter.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\PlayerCharacter.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\PlayerPaperCharacter.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\PlayerPaperCharacter.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\PlaygraundBorder.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\PlaygraundBorder.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\ShootComponent.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\ShootComponent.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\SniperEnemyCharacter.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\SniperEnemyCharacter.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StoryGame\StoryGame.Build.cs">
+      <Filter>Source\StoryGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StoryGame\StoryGame.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\StoryGame.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\StoryGameGameModeBase.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\StoryGameGameModeBase.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StoryGame\TestComponent.cpp">
+      <Filter>Source\StoryGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StoryGame\TestComponent.h">
+      <Filter>Source\StoryGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
